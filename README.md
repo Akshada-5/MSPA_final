@@ -55,11 +55,13 @@ Our objective is to create an accessible communication tool for individuals who 
 - MediaPipe (for gesture detection)
 
 ### Team
-This project is developed by **Pumpkin Seeds**, consisting of graduate students from Clark University pursuing a Master's in Data Analytics:
-- Kunal Malhan
-- Keerthana Goka
-- Jothsna Praveena Pendyala
-- Mohana Uma Manem
+-Akshada Pawar
+-Snehal Bhamare
+-Vanshika Sharma
+- Abhishek Dhomse
+-Krushna Erande
+-Apurva Dhondage
+
 
 
 
